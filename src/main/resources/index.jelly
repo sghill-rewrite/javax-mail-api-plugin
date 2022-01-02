@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides the <a href="https://github.com/javaee/javamail">JavaMail</a> API for other plugins.
+</div>
